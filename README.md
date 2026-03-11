@@ -28,18 +28,12 @@
 
 ### 📊 Estatísticas
 <br>
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Dylangomezz&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
-/>
-<img
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylangomezz&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-</p>
+<div align="center"> 
+
+![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylangomezz&show_icons=true&theme=radical&hide=prs)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylangomezz&layout=compact&theme=radical&cache_seconds=1)
+
+
+
+
+</div>
