@@ -30,8 +30,7 @@
 <br>
 <div align="center"> 
 
-![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylangomezz&show_icons=true&theme=radical&hide=prs)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylangomezz&layout=compact&theme=radical&cache_seconds=1)
+![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylangomezz&show_icons=true&theme=radical&hide=prs)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylangomezz&layout=compact&theme=radical&cache_seconds=1)
 
 
 
