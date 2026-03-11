@@ -4,7 +4,7 @@
   💻 Estudante de Tecnologia em Sistemas para Internet 
 </p>
 
-## ✨ Sobre mim
+### ✨ Sobre mim
 
 - 🎓 Tecnólogo em Tecnogia em Sistemas para Internet no IFB campus Brasília (2º semestre);
 
